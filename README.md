@@ -1,0 +1,2 @@
+-> run crawler.py file it will generate grubhub.csv file in same directory 
+-> before running again delete previous file or save it to 'csv file' directory 
